@@ -1,4 +1,4 @@
-# OpenQ1 - With Becon
+# OpenQ1 - With Beacon probe
 The goal of this project is to create custom, community supported firmware for the QIDI Q1 Pro 3D printer, including:
 - All features of the stock firmware, excluding PLR and the orignal probe (this repo adds the use of a beacon probe using the mount [here](https://github.com/keyboardspecialist/q1pro_beacon/blob/main/beacon%20shroud%20v11.step))
 - The latest versions of klipper, moonraker, fluidd, etc
